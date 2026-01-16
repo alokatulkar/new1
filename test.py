@@ -1,3 +1,3 @@
 text = "My name is Alok"
-lowercase = lowercase.text()
+lowercase = text.lower()
 print("Lowercase:", lowercase)
