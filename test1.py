@@ -3,5 +3,5 @@ num2 = 30
 def addition():
     print(num1 + num2)
 
-def sub():
+def subtraction():
     print(num1 - num2)
