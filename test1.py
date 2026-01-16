@@ -5,3 +5,6 @@ def addition():
 
 def subtraction():
     print(num1 - num2)
+
+addition()
+subtraction()
